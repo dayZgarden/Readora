@@ -57,7 +57,6 @@
 ### Getting Started
 
 * [![React][React.js]][React-url]
-* [![tailwindcss][tailwindcss]][tailwindcss-url]
 * [![npm][npm]][npm-url]
 * [![vite][vite]][vite-url]
 * [![react-router][react-router]][react-router-url]
