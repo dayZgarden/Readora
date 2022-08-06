@@ -67,7 +67,7 @@
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/dayZgarden/dayZtrivia.git
+   git clone https://github.com/dayZgarden/React-Bookstore.git
    ```
 2. Install NPM packages
    ```sh
