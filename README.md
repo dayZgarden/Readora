@@ -1,4 +1,4 @@
-# Library
+# Readora
 
 <br />
 <div align="center">
@@ -6,7 +6,7 @@
     <img src="https://user-images.githubusercontent.com/106930540/183260711-a5dc35a7-7a88-4e99-b87d-28a0e14326ee.png" alt="Logo" width="940" height="720">
   </a>
 
-<h3 align="center">Library</h3>
+<h3 align="center">Readora</h3>
 
   <p align="center">
     E-Commerce Bookstore with a strong landing page that has a clear call to action. Landing page also features featured books and books that are on sale with 
